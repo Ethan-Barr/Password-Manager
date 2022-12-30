@@ -1,0 +1,17 @@
+button {
+    background-color: slategrey;
+    border: none;
+    color: white;
+    display: inline;
+    text-align: center;
+}
+button:hover {
+    background-color: rgb(85, 95, 105);
+}
+
+.NewPassword {
+    background-color: cadetblue;
+    padding: 5px;
+    border-radius: 10px;
+    text-align: center;
+}

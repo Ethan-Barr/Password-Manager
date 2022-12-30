@@ -1,2 +1,2 @@
 # Password-Manager
-A simple local hosted password manager
+A localy hosted Password Manager with a Password Generator.
