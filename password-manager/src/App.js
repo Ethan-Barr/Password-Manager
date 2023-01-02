@@ -22,7 +22,8 @@ function App() {
       <div className='PasswordManager'>
         <Wedget
         title="Password Manager"
-        description="All your passwords saved here">
+        description="Access your saved
+        passowrds here">
           <PasswordManager/>
         </Wedget>
       </div>
